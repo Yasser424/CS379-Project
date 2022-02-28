@@ -1,0 +1,21 @@
+body {
+    background-color: #061733;
+  
+}
+.container {
+  position: absolute;
+  width: auto;
+}
+.brandmenu a {
+  float: left;
+}
+.brandmenu a:hover {
+  background-color: #172947;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    margin-top: 150px;
+ 
+    
+  }

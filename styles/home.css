@@ -1,0 +1,55 @@
+body {
+    background-color: #061733;
+  
+}
+.container {
+  
+   
+       
+ /* */
+  position: absolute;
+  width: auto;
+}
+.brandmenu a {
+  background-color: #0E3748;
+  float: left;
+  border-radius: 1.5em;
+  margin-top :5px; 
+  margin-right :5px; 
+  
+
+}
+.brandmenu a:hover {
+  background-color: #172947;
+  margin-left :5px; 
+  
+  
+}
+.center {
+    margin: auto;
+    width: 50%;
+    margin-top: 150px;
+ 
+    
+  }
+
+  .topnav {
+    background-color: #333;
+   
+  }
+  
+  
+ 
+  button {
+    cursor: pointer;
+        border-radius: 5em;
+        color: #E7DDCC;
+        background: #1D6664;
+        
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-left: 38%;
+        font-size: 14px;
+
+        
+  }
